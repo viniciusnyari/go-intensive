@@ -1,0 +1,12 @@
+Comandos go no terminal
+
+Versão --> go version
+
+Variáveis de ambiente --> go env
+	gopath --> pasta que o go vai interpretar - guardar os binários
+	gomodcache --> dependências
+	
+Mostra diretório atual --> pwd
+
+repositório --> https://github.com/viniciusnyari/go-intensive
+	
